@@ -40,7 +40,7 @@ tagline: 'Receptes de la família Masferrer i Fons'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://marionamasferrer.github.io/receptesfamiliars/
-baseurl: /summer
+baseurl: /receptesfamiliars/
 assets: /assets
 images: /images/
 image: index-large.jpg
