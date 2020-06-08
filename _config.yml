@@ -35,8 +35,8 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
+title: Receptes familiars
+tagline: 'Receptes de la família Masferrer i Fons'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://connor-baer.github.io
