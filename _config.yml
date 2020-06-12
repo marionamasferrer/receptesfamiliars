@@ -39,8 +39,8 @@ title: Receptes familiars
 tagline: 'Receptes de la família Masferrer i Fons'
 description: 'Una senzilla pàgina web construïda en Jekyll per preservar el receptari familiar.'
 keywords: 'receptes, cuina, família'
-url: https://marionamasferrer.github.io/receptesfamiliars/
-baseurl: /receptesfamiliars/
+url: https://marionamasferrer.github.io
+baseurl: /receptesfamiliars
 assets: /assets
 images: /images/
 image: index-large.jpg
