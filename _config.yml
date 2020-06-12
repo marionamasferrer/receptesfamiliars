@@ -27,6 +27,7 @@ exclude:
     node_modules,
     gemfile,
     Gemfile.lock,
+    index.md
   ]
 permalink: /:title/
 compress_html:
