@@ -97,5 +97,5 @@ defaults:
       type: recipes
     values:
       layout: recipe
-      lang: en
+      lang: ca
       permalink: /:title/
