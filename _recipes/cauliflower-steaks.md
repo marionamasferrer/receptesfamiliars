@@ -1,8 +1,8 @@
 ---
-title: 'Cauliflower steaks with roasted red pepper & olive salsa'
-ref: cauliflower-steaks
+title: 'Fricando'
+ref: fricando
 image: true
-time: 30
+time: 60
 category: lunch
 tags: [vegan, vegetarian, quick]
 ingredients:
