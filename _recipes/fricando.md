@@ -1,14 +1,14 @@
 ---
-title: 'Fricando'
+title: 'Fricandó'
 ref: fricando
 image: true
 time: 60
-category: lunch
-tags: [vegan, vegetarian, quick]
+category: Cal Sord
+tags: [carn, 6 persones]
 ingredients:
-  - name: cauliflower
-    amount: 1
-    unit:
+  - name: carn de vedella (llata)
+    amount: 1,2
+    unit: kg
   - name: smoked paprika
     amount: ½
     unit: tsp
