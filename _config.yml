@@ -90,12 +90,12 @@ defaults:
       type: posts
     values:
       layout: post
-      lang: en
+      lang: ca
       permalink: /news/:title/
   - scope:
       path: ''
       type: recipes
     values:
       layout: recipe
-      lang: en
+      lang: ca
       permalink: /:title/
