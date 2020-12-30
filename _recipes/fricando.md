@@ -1,6 +1,6 @@
 ---
 title: 'Fricandó'
-ref: cauliflower-steaks
+ref: fricando
 image: true
 time: 60
 category: Cal Sord
