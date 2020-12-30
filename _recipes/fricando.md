@@ -1,13 +1,13 @@
 ---
 title: 'Fricandó'
-ref: fricando
+ref: cauliflower-steaks
 image: true
 time: 60
 category: Cal Sord
-tags: [carn, 6 persones]
+tags: [carn, vedella]
 ingredients:
   - name: carn de vedella (llata)
-    amount: 1,2
+    amount: 1.2
     unit: kg
   - name: smoked paprika
     amount: ½
